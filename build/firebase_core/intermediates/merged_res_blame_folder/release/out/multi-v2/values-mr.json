@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DAMAJ-PC\\Flutter\\test_new\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DAMAJ-PC\\.gradle\\caches\\transforms-2\\files-2.1\\1d5dae69fb3f68a5e9accc1c844f52da\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "307",
+                        "endColumns": "100",
+                        "endOffsets": "403"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DAMAJ-PC\\.gradle\\caches\\transforms-2\\files-2.1\\93cfac5e0a12f4fc9196d5403ec410ec\\jetified-play-services-basement-17.0.0\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\DAMAJ-PC\\Flutter\\test_new\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DAMAJ-PC\\.gradle\\caches\\transforms-2\\files-2.1\\1d5dae69fb3f68a5e9accc1c844f52da\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "307",
+                        "endColumns": "100",
+                        "endOffsets": "403"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DAMAJ-PC\\.gradle\\caches\\transforms-2\\files-2.1\\93cfac5e0a12f4fc9196d5403ec410ec\\jetified-play-services-basement-17.0.0\\res\\values-mr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "201",
+                        "endOffsets": "302"
+                    }
+                }
+            ]
+        }
+    ]
+}
